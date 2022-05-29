@@ -13,7 +13,7 @@ function preload() {
   invader2Img = loadImage("./assets/invader2.gif")
   invader3Img = loadImage("./assets/invader3.jpeg")
 
-  bgMusic = loadSound("./assets/bgMusic.wav")
+//   bgMusic = loadSound("./assets/bgMusic.wav")
 }
 
 function setup() 
